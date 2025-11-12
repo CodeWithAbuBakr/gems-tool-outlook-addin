@@ -1,7 +1,7 @@
-# GEMS Tool – Government Entity Management and Change Submission for Outlook
+# GEMS Tool – Global Entity Management System - Change Request Tool
 
 ## Overview
-GEMS Tool is an Outlook Add-in designed to streamline the process of managing and submitting changes for government entities. It provides a user-friendly interface to handle updates such as:
+GEMS Tool is an Outlook Add-in designed to streamline the process of managing and submitting changes for global entities. It provides a user-friendly interface to handle updates such as:
 - Director/Officer updates
 - Ownership transfers
 - Address changes
